@@ -1,0 +1,4 @@
+pipreqs==0.4.10
+requests==2.25.1
+pytube==10.8.2
+python-time==0.3.0
