@@ -1,14 +1,14 @@
 # YouTube Download
-Python way to download videos from YouTube and converting to Video(mp4) or music(mp3). 
+Python script to download videos from YouTube and converting to Video(mp4) or music(mp3). 
 
 ---
 ### Operating System Support
 pyYTB works on any of the following operating systems:
-• *Android* (Using the Termux App) 
-• *Linux* (Debian Based Systems) 
-• *MacOS, IOS* (Terminal, ISH)
-• *Windows*
-• *Unix*
+
+• *Android* (Using the Termux App)<br>
+• *Linux* (Debian Based Systems)<br>
+• *MacOS, IOS* (Terminal, ISH)<br>
+• *Windows*<br>
 
 ---
 ### How to Install
@@ -27,4 +27,4 @@ Open the terminal and type following commands (Default OS is Linux).
 * `python3 py_ytb.py`
 
 ---
-<img src="https://i.ibb.co/k17ck82/6-AC1-CE69-2-F02-453-C-9-DDC-1641-F070665-E.jpg" title="pyYTB-Tool" alt="alt text here"/>
+<img src="https://i.ibb.co/rmLrm1j/uid-70-A7601-C-9-BF4-4-D8-B-96-D4-36290903-BB1-D-1621679772646-source-other-origin-gallery.jpg" title="pyYTB-Tool" alt="alt text here"/>
