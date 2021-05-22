@@ -19,7 +19,7 @@ Open the terminal and type following commands (Default OS is Linux).
 
 * `apt install git`
 
-* `https://github.com/M2Robot/pyYTB.git`
+* ` git clone https://github.com/M2Robot/pyYTB.git`
 
 * `cd pyYTB`
 
